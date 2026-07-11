@@ -1,14 +1,16 @@
-# 1. Apple Global Sales & Warranty Analytics Dashboard
+![Apple Global Dashboard Screenshots](https://github.com/himadree77/Powerbi/raw/main/Apple%20Global.png)
+
+# Apple Global Sales & Warranty Analytics Dashboard
 
 An interactive **Power BI dashboard** built to analyze Apple's global sales, product performance, and warranty operations. The dashboard helps users monitor revenue, product performance, warranty claims, and regional quality metrics through interactive visualizations.
 
 
-# 2. Short Description / Purpose
+#  Purpose
 
 The Apple Global Sales & Warranty Analytics Dashboard is a **3-page interactive Power BI report** designed to provide a complete overview of Apple's global business performance. It helps analyze sales trends, product insights, and warranty operations, enabling users to identify high-performing products, monitor warranty claims, and evaluate business performance across different countries and product categories.
 
 
-# 3. Tech Stack
+# Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -20,7 +22,7 @@ The dashboard was built using the following tools and technologies:
 * 📁 **File Format** – `.pbix` for development and `.png` for dashboard previews.
 
 
-# 4. Data Source
+#  Data Source
 
 The dataset contains information about:
 
@@ -35,7 +37,6 @@ The dataset contains information about:
 
 The data represents Apple's global sales and warranty operations across multiple countries and product categories.
 
-# 5. Features / Highlights
 
 ## • Business Problem
 
@@ -74,7 +75,6 @@ Provides an overview of business performance.
 * Category Contribution Over Time
 * Global Revenue Map
 
----
 
 ### **Page 2 – Product Insights**
 
@@ -121,5 +121,5 @@ Focuses on warranty and repair performance.
 * Highlighted countries with higher defect rates for quality monitoring.
 * Provided a single dashboard for monitoring sales, product performance, and operations.
 
-Screenshots
-![Apple Global Dashboard Screenshots](https://github.com/himadree77/Powerbi/raw/main/Apple%20Global.png)
+
+
