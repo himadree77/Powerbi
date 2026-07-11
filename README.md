@@ -122,4 +122,4 @@ Focuses on warranty and repair performance.
 * Provided a single dashboard for monitoring sales, product performance, and operations.
 
 Screenshots
-https://github.com/himadree77/Powerbi/blob/main/Apple%20Global.png
+![Apple Global Dashboard Screenshots](https://github.com/himadree77/Powerbi/raw/main/Apple%20Global.png)
