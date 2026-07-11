@@ -1,4 +1,4 @@
- Apple Global Sales & Warranty Analytics Dashboard
+Apple Global Sales & Warranty Analytics Dashboard
 
 An interactive **Power BI dashboard** built to analyze Apple's global sales, product performance, and warranty operations. The dashboard helps users monitor revenue, product performance, warranty claims, and regional quality metrics through interactive visualizations.
 
