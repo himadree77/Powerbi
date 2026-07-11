@@ -1,4 +1,6 @@
-![Apple Global Dashboard Screenshots](https://github.com/himadree77/Powerbi/raw/main/Apple%20Global.png)
+![Apple Global Dashboard Screenshots](https://github.com/himadree77/Powerbi/blob/main/Executive%20Summary.png)
+![Apple Global Dashboard Screenshots](https://github.com/himadree77/Powerbi/blob/main/Product%20Insights.png)
+![Apple Global Dashboard Screenshots](https://github.com/himadree77/Powerbi/blob/main/Quality%20%26%20Operations.png)
 
 # Apple Global Sales & Warranty Analytics Dashboard
 
